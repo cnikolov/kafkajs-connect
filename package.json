@@ -1,0 +1,19 @@
+{
+  "name": "kafkajs-connect",
+  "version": "1.0.0",
+  "description": "The idea of this project is to implement the Kafka Connect API in NodeJS. This project is based on the configuration of the Kafka Connect API and the KafkaJS library.\r <https://kafka.apache.org/documentation.html#connectconfigs>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnikolov/kafkajs-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnikolov/kafkajs-connect/issues"
+  },
+  "homepage": "https://github.com/cnikolov/kafkajs-connect#readme"
+}
