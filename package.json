@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cnikolov/kafkajs-connect/issues"
   },
-  "homepage": "https://github.com/cnikolov/kafkajs-connect#readme"
+  "homepage": "https://github.com/cnikolov/kafkajs-connect#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
